@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S1G1R
+- 👋 Hi, I’m @mr-sagarbhatt
 - 👀 I’m interested in python, javascript, php
 - 🌱 I’m currently learning php
 
