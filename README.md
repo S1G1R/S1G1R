@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr-sagarbhatt
-- 👀 I’m interested in python, javascript, php
-- 🌱 I’m currently learning magento
+- 👀 I’m interested in python, javascript
+- 🌱 I’m currently learning NodeJS and ReactJS
 
 <!---
 - 💞️ I’m looking to collaborate on ...
